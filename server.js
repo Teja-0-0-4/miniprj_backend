@@ -1,16 +1,17 @@
 // server.js
 const express = require('express');
-const bodyparser = require('body-parser');
+const bodyParser = require('body-parser');
 const cors = require('cors');
 const mongoose = require('mongoose');
-const url = require('./url');
+const url = require('./url'); // Ensure this points to the correct URL string or file
+
 const app = express();
 
-app.use(bodyparser.json());
-app.use(bodyparser.urlencoded({ extended: false }));
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cors());
 
-mongoose.connect(url, { dbName: "miniprj", useNewUrlParser: true, useUnifiedTopology: true })
+mongoose.connect(url, { dbName: "miniprj" })
     .then(() => {
         console.log('Connection Success');
     })
