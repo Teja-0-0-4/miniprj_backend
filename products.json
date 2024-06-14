@@ -238,5 +238,167 @@
         "p_cat": "Footwear",
         "p_desc": "Classic white Crocs with a red heart charm, offering timeless style and comfort.",
         "p_img": "https://images.app.goo.gl/gHqB3hQxAjrN8ngU9"
+    },
+    {
+        "p_id": 82,
+        "p_name": "Slip-On Flats",
+        "p_cost": 1300,
+        "p_cat": "Footwear",
+        "p_desc":"Convenient slip-on flats for effortless everyday wear.",	
+        "p_img": "https://images.app.goo.gl/Fu9D4M3Z2Pjc4gXv9"
+  },
+            {
+        "p_id": 83,
+        "p_name": "Loafers",
+        "p_cost": 1200,
+        "p_cat": "Footwear",
+        "p_desc": "Classic loafers offering a blend of comfort and style for smart-casual looks.",	
+        "p_img": "https://images.app.goo.gl/vVecAdBB85tLEKs3A"
+  },  
+           {
+        "p_id": 84,
+        "p_name": "Casual Slippers",
+        "p_cost": 850,
+        "p_cat": "Footwear",
+        "p_desc": "Easy-to-wear slide slippers perfect for quick and casual comfort.",	
+        "p_img": "https://images.app.goo.gl/WtDVq3L4oSQhP1AH9"
+  },
+         
+
+
+             {
+        "p_id": 85,
+        "p_name": "Moisturizing Sunscreen",
+        "p_cost": 720,
+        "p_cat": "Cosmetics",
+        "p_desc": "Hydrating sunscreen that keeps your skin moisturized whileprotecting from UV rays.",	
+        "p_img": "https://images.app.goo.gl/s1e5yQ1WmeqzS5xB7"
+    },
+              {
+        "p_id": 86,
+        "p_name": "Spray Sunscreen",
+        "p_cost": 650,
+        "p_cat": "Cosmetics",
+        "p_desc": "Convenient spray sunscreen for quick and easy application.",	
+        "p_img": "https://images.app.goo.gl/Kd1aGEhNurMZHQxE7"
+    },
+              {
+        "p_id": 87,
+        "p_name": "Sunscreen Stick",
+        "p_cost": 420,
+        "p_cat": "Cosmetics",
+        "p_desc": "Portable sunscreen stick for mess-free application on the go.",
+        "p_img": "https://images.app.goo.gl/G4GWuszEvFZqszjZ6"
+    },
+              {
+        "p_id": 88,
+        "p_name": "Floral Perfume",
+        "p_cost": 880,
+        "p_cat": "Cosmetics",
+        "p_desc": "Delicate and feminine, floral perfumes often feature notes of rose, jasmine, lily, or peony, evoking the essence of a blooming garden",
+        "p_img": "https://images.app.goo.gl/yBZuaXyYZjVkAY7v9"
+    },
+              {
+        "p_id": 89,
+        "p_name": "Citrus Perfume",
+        "p_cost": 640,
+        "p_cat": "Cosmetics",
+        "p_desc": "Citrus: Refreshing and invigorating, citrus perfumes are  characterized by zesty notes of lemon, bergamot, orange, or grapefruit,reminiscent of sun-kissed orchards.",
+        "p_img": "https://images.app.goo.gl/MpP8xkgmugUcxoZv8"
+    },
+
+
+
+              {
+        "p_id": 90,
+        "p_name": "Fruity Perfume",
+        "p_cost": 560,
+        "p_cat": "Cosmetics",
+        "p_desc": "Fruity: Playful and vibrant, fruity perfumes burst with juicy notes of berries, apples, or tropical fruits, exuding youthful energy and optimism.",                           
+        "p_img": "https://images.app.goo.gl/AGqqCoHVe5Tmf6sJ9"
+    },
+              {
+        "p_id": 91,
+        "p_name": "Tinted lip balm",
+        "p_cost": 540,
+        "p_cat": "Cosmetics",
+        "p_desc": "Adds a subtle hint of color while providing hydration  and protection to the lips.",                           
+        "p_img": "https://images.app.goo.gl/84aftJnpkgxtTE4p8"
+    },
+              {
+        "p_id": 92,
+        "p_name": "Exfoliating lip balm",
+        "p_cost": 320,
+        "p_cat": "Cosmetics",
+        "p_desc": "Gently buffs away dry, flaky skin while moisturizing lips with natural exfoliants like sugar or fruit enzymes.",                           
+        "p_img": "https://images.app.goo.gl/1aWBFXj9cbe8m2RXA"
+    },
+              {
+        "p_id": 93,
+        "p_name": "Long-Lasting lip balm",
+        "p_cost": 260,
+        "p_cat": "Cosmetics",
+        "p_desc": "Provides extended hydration and protection, ideal for all-day wear and harsh weather conditions.",                           
+        "p_img": "https://images.app.goo.gl/kPmpQxBdC7CAont38"
+    },
+              {
+        "p_id": 94,
+        "p_name": "Cocoa butter lip balm",
+        "p_cost": 250,
+        "p_cat": "Cosmetics",
+        "p_desc": "Luxuriously hydrating, infused with cocoa butter to soften and nourish lips, leaving them irresistibly smooth and deliciously scented.",                           
+        "p_img": "https://images.app.goo.gl/e4qx3dovvZTMv1LCA"
+    },
+
+              {
+        "p_id": 95,
+        "p_name": "Blush",
+        "p_cost": 320,
+        "p_cat": "Cosmetics",
+        "p_desc": "Adds a natural flush of colour to the cheeks, enhancing your complexion with a radiant, healthy glow.",                           
+        "p_img": "https://images.app.goo.gl/tiRCXYMEyNcewsJQ7"
+    },
+              {
+        "p_id": 96,
+        "p_name": "Velvety blush",
+        "p_cost": 340,
+        "p_cat": "Cosmetics",
+        "p_desc": "Silky-smooth formula blends effortlessly, delivering a radiant flush of color for a youthful, luminous complexion.",                           
+        "p_img": "https://images.app.goo.gl/s5qD98XcGAafR5vq8"
+    },
+              {
+        "p_id": 97,
+        "p_name": "Herbal Facewash",
+        "p_cost": 250,
+        "p_cat": "Cosmetics",
+        "p_desc": "Formulated to cleanse deeply and remove excess oil, dirt, and impurities while leaving the skin feeling refreshed and revitalized.",                           
+        "p_img": "https://images.app.goo.gl/mNUuHwvzdtpsmkc18"
+    },
+              {
+        "p_id": 98,
+        "p_name": "Cream Cleanser",
+        "p_cost": 400,
+        "p_cat": "Cosmetics",
+        "p_desc": "Gentle and hydrating, cream cleansers effectively remove makeup and impurities while nourishing and soothing the skin.",                           
+        "p_img": "https://images.app.goo.gl/PiRKpfcywiWHTCqV6"
+    },
+              {
+        "p_id": 99,
+        "p_name": "Salicylic acid Cleanser",
+        "p_cost": 350,
+        "p_cat": "Cosmetics",
+        "p_desc": "a specialized cleanser formulated with salicylic acid, a beta hydroxy acid (BHA), known for its ability to exfoliate the skin, unclog pore.",                           
+        "p_img": "https://images.app.goo.gl/RHa45q6vyhdq71d2A"
+    },
+
+
+              {
+        "p_id": 100,
+        "p_name": "Neem Facewash",
+        "p_cost": 500,
+        "p_cat": "Cosmetics",
+        "p_desc": "Refreshing and lightweight, gel cleansers deeply cleanse without stripping the skin's natural moisture, making them ideal for oily or acne-prone skin types.",                           
+        "p_img": "https://images.app.goo.gl/9hRyDMbW6EMxyFu29"
     }
+
 ]
