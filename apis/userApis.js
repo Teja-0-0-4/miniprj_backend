@@ -52,18 +52,19 @@ const update_user= async (req, res) => {
 
 // Delete user
 const delete_user = async (req, res) => {
-    const { u_serid } = req.params;
     try {
-        const deletedUser = await User.findByIdAndDelete(u_serid);
-        if (deletedUser) {
-            console.log('User deleted');
-            res.send({ 'delete': 'success' });
+        const p_id = req.body.p_id;
+        const result = await User.deleteOne({ p_id });
+        if (result.deletedCount != 0) {
+            console.log("Data deleted");
+            res.json({ 'delete': 'success' });
         } else {
-            console.log('User not found');
-            res.send({ 'delete': 'Record not found' });
+            console.log("Data not deleted");
+            res.json({ 'delete': 'Record not found' });
         }
-    } catch (error) {
-        res.status(400).send(error);
+    } catch (err) {
+        console.log('Error in deletion: ', err);
+        res.json({ 'delete': 'Error ' + err });
     }
 };
 
