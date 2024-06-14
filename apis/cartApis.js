@@ -15,7 +15,7 @@ const insert_cart = async (req, res) => {
     }
 };
 
-// Update product in cart (increase quantity by 1)
+// Update product in cart 
 const update_cart = async (req, res) => {
     try {
         const { p_id, u_name } = req.body;

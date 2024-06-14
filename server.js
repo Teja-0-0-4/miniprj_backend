@@ -3,7 +3,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const mongoose = require('mongoose');
-const url = require('./url'); // Ensure this points to the correct URL string or file
+const url = require('./url'); 
 
 const app = express();
 
