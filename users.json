@@ -1,0 +1,162 @@
+[
+    {
+        "u_id": 1,
+        "u_name": "Amit Sharma",
+        "u_pwd": "password123",
+        "u_email": "amitsharma@examplecom",
+        "u_addr": "123 Maple Street, New Delhi",
+        "u_contact": 9876543210
+    },
+    {
+        "u_id": 2,
+        "u_name": "Priya Singh",
+        "u_pwd": "priyasecure",
+        "u_email": "priyasingh@examplecom",
+        "u_addr": "456 Oak Avenue, Mumbai",
+        "u_contact": 9876543211
+    },
+    {
+        "u_id": 3,
+        "u_name": "Rahul Verma",
+        "u_pwd": "rahul123",
+        "u_email": "rahulverma@examplecom",
+        "u_addr": "789 Pine Road, Kolkata",
+        "u_contact": 9876543212
+    },
+    {
+        "u_id": 4,
+        "u_name": "Sneha Gupta",
+        "u_pwd": "wonderwoman",
+        "u_email": "snehagupta@examplecom",
+        "u_addr": "101 Elm Street, Chennai",
+        "u_contact": 9876543213
+    },
+    {
+        "u_id": 5,
+        "u_name": "Vikram Patel",
+        "u_pwd": "vikrampassword",
+        "u_email": "vikrampatel@examplecom",
+        "u_addr": "202 Birch Lane, Bengaluru",
+        "u_contact": 9876543214
+    },
+    {
+        "u_id": 6,
+        "u_name": "Anjali Desai",
+        "u_pwd": "punisher",
+        "u_email": "anjalidesai@examplecom",
+        "u_addr": "303 Cedar Boulevard, Ahmedabad",
+        "u_contact": 9876543215
+    },
+    {
+        "u_id": 7,
+        "u_name": "Arjun Nair",
+        "u_pwd": "computerscience",
+        "u_email": "arjunnair@examplecom",
+        "u_addr": "404 Redwood Drive, Kochi",
+        "u_contact": 9876543216
+    },
+    {
+        "u_id": 8,
+        "u_name": "Kavya Iyer",
+        "u_pwd": "fordmotor",
+        "u_email": "kavyaiyer@examplecom",
+        "u_addr": "505 Aspen Way, Pune",
+        "u_contact": 9876543217
+    },
+    {
+        "u_id": 9,
+        "u_name": "Rajesh Menon",
+        "u_pwd": "sherlock",
+        "u_email": "rajeshmenon@examplecom",
+        "u_addr": "606 Walnut Street, Hyderabad",
+        "u_contact": 9876543218
+    },
+    {
+        "u_id": 10,
+        "u_name": "Neha Kaur",
+        "u_pwd": "clancy",
+        "u_email": "nehakaur@examplecom",
+        "u_addr": "707 Chestnut Avenue, Chandigarh",
+        "u_contact": 9876543219
+    },
+    {
+        "u_id": 11,
+        "u_name": "Rohit Das",
+        "u_pwd": "goodfellas",
+        "u_email": "rohitdas@examplecom",
+        "u_addr": "808 Sycamore Street, Jaipur",
+        "u_contact": 9876543220
+    },
+    {
+        "u_id": 12,
+        "u_name": "Swati Reddy",
+        "u_pwd": "shield",
+        "u_email": "swatireddy@examplecom",
+        "u_addr": "909 Maple Avenue, Visakhapatnam",
+        "u_contact": 9876543221
+    },
+    {
+        "u_id": 13,
+        "u_name": "Abhay Kapoor",
+        "u_pwd": "avengers",
+        "u_email": "abhaykapoor@examplecom",
+        "u_addr": "1010 Spruce Street, Bhopal",
+        "u_contact": 9876543222
+    },
+    {
+        "u_id": 14,
+        "u_name": "Maya Joshi",
+        "u_pwd": "uncharted",
+        "u_email": "mayajoshi@examplecom",
+        "u_addr": "1111 Poplar Lane, Ludhiana",
+        "u_contact": 9876543223
+    },
+    {
+        "u_id": 15,
+        "u_name": "Rakesh Mehta",
+        "u_pwd": "scandal",
+        "u_email": "rakeshmehta@examplecom",
+        "u_addr": "1212 Fir Street, Surat",
+        "u_contact": 9876543224
+    },
+    {
+        "u_id": 16,
+        "u_name": "Pooja Arora",
+        "u_pwd": "spiderman",
+        "u_email": "poojaarora@examplecom",
+        "u_addr": "1313 Hickory Drive, Nagpur",
+        "u_contact": 9876543225
+    },
+    {
+        "u_id": 17,
+        "u_name": "Aakash Bhatt",
+        "u_pwd": "glee",
+        "u_email": "aakashbhatt@examplecom",
+        "u_addr": "1414 Pine Street, Varanasi",
+        "u_contact": 9876543226
+    },
+    {
+        "u_id": 18,
+        "u_name": "Ritika Saxena",
+        "u_pwd": "friends",
+        "u_email": "ritikasaxena@examplecom",
+        "u_addr": "1515 Cedar Lane, Patna",
+        "u_contact": 9876543227
+    },
+    {
+        "u_id": 19,
+        "u_name": "Vineet Agarwal",
+        "u_pwd": "captainamerica",
+        "u_email": "vineetagarwal@examplecom",
+        "u_addr": "1616 Oak Avenue, Thiruvananthapuram",
+        "u_contact": 9876543228
+    },
+    {
+        "u_id": 20,
+        "u_name": "Nisha Roy",
+        "u_pwd": "ironman",
+        "u_email": "nisharoy@examplecom",
+        "u_addr": "1717 Birch Road, Guwahati",
+        "u_contact": 9876543229
+    }
+]

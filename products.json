@@ -1,0 +1,242 @@
+[
+    {
+        "p_id": 51,
+        "p_name": "Bangles",
+        "p_cost": 2000,
+        "p_cat": "Jewellery",
+        "p_desc": "Elegant 22K gold bangle with intricate detailing, perfect for special occasions.",
+        "p_img": "https://images.app.goo.gl/DLinhSRuEoWM1gLs6"
+    },
+    {
+        "p_id": 52,
+        "p_name": "Bangles",
+        "p_cost": 3000,
+        "p_cat": "Jewellery",
+        "p_desc": "Handcrafted beaded bangle with a bohemian vibe, perfect for casual and festival wear.",
+        "p_img": "https://images.app.goo.gl/m6HFYPqtvDGcCifu6"
+    },
+    {
+        "p_id": 53,
+        "p_name": "Traditional Gold Bangle",
+        "p_cost": 4000,
+        "p_cat": "Jewellery",
+        "p_desc": "Stylish leather wrap bangle with metallic accents for a chic, modern look.",
+        "p_img": "https://images.app.goo.gl/W53ceCih4kuS2EFV9"
+    },
+    {
+        "p_id": 54,
+        "p_name": "Vintage Charm Bangle",
+        "p_cost": 17000,
+        "p_cat": "Jewellery",
+        "p_desc": "Antique-inspired charm bangle with intricate engravings for a touch of nostalgia.",
+        "p_img": "https://images.app.goo.gl/3mxkszaXZmtpQ91b8"
+    },
+    {
+        "p_id": 55,
+        "p_name": "Solitaire Diamond Ring",
+        "p_cost": 24000,
+        "p_cat": "Jewellery",
+        "p_desc": "Timeless solitaire diamond ring that exudes elegance and sophistication.",
+        "p_img": "https://images.app.goo.gl/dLGw4ZsU3Cm7wU8u5"
+    },
+    {
+        "p_id": 56,
+        "p_name": "Modern Minimalist Band",
+        "p_cost": 56000,
+        "p_cat": "Jewellery",
+        "p_desc": "Sleek and simple minimalist band perfect for everyday wear.",
+        "p_img": "https://images.app.goo.gl/ABWH5eh1jqghjagY9"
+    },
+    {
+        "p_id": 57,
+        "p_name": "Emerald Halo Ring",
+        "p_cost": 5000,
+        "p_cat": "Jewellery",
+        "p_desc": "Stunning emerald ring surrounded by a halo of sparkling diamonds.",
+        "p_img": "https://images.app.goo.gl/iohm3t67ka1vB7CQ9"
+    },
+    {
+        "p_id": 58,
+        "p_name": "Adjustable Open Ring",
+        "p_cost": 45000,
+        "p_cat": "Jewellery",
+        "p_desc": "Modern adjustable open ring designed to fit any finger comfortably.",
+        "p_img": "https://images.app.goo.gl/g2frVxSnShjj6rwbA"
+    },
+    {
+        "p_id": 59,
+        "p_name": "Vintage Cameo Necklace",
+        "p_cost": 76000,
+        "p_cat": "Jewellery",
+        "p_desc": "Antique-inspired cameo necklace with intricate detailing for a classic look.",
+        "p_img": "https://images.app.goo.gl/vzYCcCgPLMkeuiidA"
+    },
+    {
+        "p_id": 60,
+        "p_name": "Geometric Pendant Necklace",
+        "p_cost": 56000,
+        "p_cat": "Jewellery",
+        "p_desc": "Modern geometric pendant necklace for a contemporary style.",
+        "p_img": "https://images.app.goo.gl/f8HyQ5kVyNau9vGB7"
+    },
+    {
+        "p_id": 61,
+        "p_name": "Crystal Y-Chain Necklace",
+        "p_cost": 44000,
+        "p_cat": "Jewellery",
+        "p_desc": "Elegant crystal Y-chain necklace perfect for a sophisticated evening out.",
+        "p_img": "https://images.app.goo.gl/YpfF2mr5aaZgYthr9"
+    },
+    {
+        "p_id": 62,
+        "p_name": "Turquoise Statement Necklace",
+        "p_cost": 50000,
+        "p_cat": "Jewellery",
+        "p_desc": "Bold turquoise statement necklace for a vibrant, bohemian touch.",
+        "p_img": "https://images.app.goo.gl/FykSwBB2VAiCxsFz7"
+    },
+    {
+        "p_id": 63,
+        "p_name": "Diamond Stud Earrings",
+        "p_cost": 43000,
+        "p_cat": "Jewellery",
+        "p_desc": "Timeless diamond stud earrings that add a touch of sparkle to any look.",
+        "p_img": "https://images.app.goo.gl/YAv7G1RVHnhxhMjQ9"
+    },
+    {
+        "p_id": 64,
+        "p_name": "Pearl Drop Earrings",
+        "p_cost": 45000,
+        "p_cat": "Jewellery",
+        "p_desc": "Elegant pearl drop earrings perfect for formal occasions.",
+        "p_img": "https://images.app.goo.gl/uen8qFCyxEQDRkkV9"
+    },
+    {
+        "p_id": 65,
+        "p_name": "Chandelier Earrings",
+        "p_cost": 34000,
+        "p_cat": "Jewellery",
+        "p_desc": "Glamorous chandelier earrings that make a statement at any event.",
+        "p_img": "https://images.app.goo.gl/K6dQutZDnBCeUssw7"
+    },
+    {
+        "p_id": 67,
+        "p_name": "Vintage Clip-On Earrings",
+        "p_cost": 2300,
+        "p_cat": "Jewellery",
+        "p_desc": "Classic vintage clip-on earrings with intricate detailing.",
+        "p_img": "https://images.app.goo.gl/3R8iXLmer8wVUrGu6"
+    },
+    {
+        "p_id": 68,
+        "p_name": "Turquoise Cuff Bracelet",
+        "p_cost": 610,
+        "p_cat": "Jewellery",
+        "p_desc": "Vibrant turquoise cuff bracelet perfect for a bohemian touch.",
+        "p_img": "https://images.app.goo.gl/SMBWzdWAYbY2kUzX8"
+    },
+    {
+        "p_id": 69,
+        "p_name": "Adjustable Knot Bracelet",
+        "p_cost": 1560,
+        "p_cat": "Jewellery",
+        "p_desc": "Delicate adjustable knot bracelet that fits comfortably on any wrist.",
+        "p_img": "https://images.app.goo.gl/Y77bzR6UtcXAFnxi9"
+    },
+    {
+        "p_id": 70,
+        "p_name": "Diamond Tennis Bracelet",
+        "p_cost": 1200,
+        "p_cat": "Jewellery",
+        "p_desc": "Elegant diamond tennis bracelet that adds timeless sparkle to any wrist.",
+        "p_img": "https://images.app.goo.gl/yRdTKstcacRjcK1V7"
+    },
+    {
+        "p_id": 71,
+        "p_name": "Traditional Gold Vanki",
+        "p_cost": 940,
+        "p_cat": "Jewellery",
+        "p_desc": "Exquisite traditional gold vanki with intricate craftsmanship for a regal look.",
+        "p_img": "https://images.app.goo.gl/vBPGbHnLvSheyzxa7"
+    },
+    {
+        "p_id": 72,
+        "p_name": "Pearl Embellished Vanki",
+        "p_cost": 920,
+        "p_cat": "Jewellery",
+        "p_desc": "Elegant pearl-embellished vanki that adds a touch of grace to any outfit.",
+        "p_img": "https://images.app.goo.gl/yRdTKstcacRjcK1V7"
+    },
+    {
+        "p_id": 73,
+        "p_name": "Contemporary Gold Vanki",
+        "p_cost": 840,
+        "p_cat": "Jewellery",
+        "p_desc": "Modern gold vanki with sleek lines for a chic and stylish appearance.",
+        "p_img": "https://images.app.goo.gl/678kCXAS5ABxtUmg8"
+    },
+    {
+        "p_id": 74,
+        "p_name": "Antique Temple Vanki",
+        "p_cost": 720,
+        "p_cat": "Jewellery",
+        "p_desc": "Antique temple vanki with divine motifs perfect for religious ceremonies.",
+        "p_img": "https://images.app.goo.gl/wSc8RCmvTkY1fQTS9"
+    },
+    {
+        "p_id": 75,
+        "p_name": "Crocs",
+        "p_cost": 5600,
+        "p_cat": "Footwear",
+        "p_desc": "Classic white Crocs with a cute pink heart charm, combining comfort with playful style.",
+        "p_img": "https://images.app.goo.gl/s3DEdA2RAChA6MK88"
+    },
+    {
+        "p_id": 76,
+        "p_name": "Crocs",
+        "p_cost": 8900,
+        "p_cat": "Footwear",
+        "p_desc": "Sporty black Crocs with a pink heart charm, blending functionality and flair.",
+        "p_img": "https://images.app.goo.gl/pT6PmjNDUnPVpZKYA"
+    },
+    {
+        "p_id": 77,
+        "p_name": "Men's Black Crocs",
+        "p_cost": 7600,
+        "p_cat": "Footwear",
+        "p_desc": "Men's classic black Crocs with a red heart charm, offering a rugged yet charming look.",
+        "p_img": "https://images.app.goo.gl/XNxMSyAEF9aFSydV6"
+    },
+    {
+        "p_id": 78,
+        "p_name": "Men's Grey Crocs",
+        "p_cost": 6500,
+        "p_cat": "Footwear",
+        "p_desc": "Men's versatile grey Crocs with a red heart charm, perfect for everyday wear.",
+        "p_img": "https://images.app.goo.gl/mxdZ1uJf5xMwGwAD7"
+    },
+    {
+        "p_id": 79,
+        "p_name": "Women's Yellow Crocs",
+        "p_cost": 6700,
+        "p_cat": "Footwear",
+        "p_desc": "Women's bright yellow Crocs with a red heart charm, adding a pop of color to any outfit.",
+        "p_img": "https://images.app.goo.gl/cMkrAwzAXAmhKgnJ9"
+    },
+    {
+        "p_id": 80,
+        "p_name": "Women's Grey Crocs",
+        "p_cost": 6800,
+        "p_cat": "Footwear",
+        "p_desc": "Women's sleek grey Crocs with a red heart charm, blending elegance with comfort.",
+        "p_img": "https://images.app.goo.gl/4HGADiwYjqg8Vf7Y8"
+    },
+    {
+        "p_id": 81,
+        "p_name": "White Crocs",
+        "p_cost": 5600,
+        "p_cat": "Footwear",
+        "p_desc": "Classic white Crocs with a red heart charm, offering timeless style and comfort.",
+        "p_img": "https://images.app.goo.gl/gHqB3hQxAjrN8ngU9"
+    }
+]
